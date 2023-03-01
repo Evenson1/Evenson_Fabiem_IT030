@@ -7,11 +7,15 @@
     <meta name="author" content="Evenson Fabien"> 
     <meta name="title" content="HTML — Markup, Create and design">
      <title> Test Project</title>
-      <link rel="stylesheet" type="text/css" href="style.css">
--  </head>  
--  <body>
--      <h1>Evenson Fabuien Testing </h1>
--      <p>Hello my name is Evenson Fabien. I am practicing on leanring HTML and CSS. This is a test bed for some  practice.</p>
--
-- </body>
-- </html>
+ </head>  
+   <body>
+      <h1>Evenson Fabuien Testing </h1>
+      <p>Hello my name is Evenson Fabien. I am practicing on leanring HTML and CSS. This is a test bed for some  practice.</p>
+
+
+   </body>
+   </html>
+
+
+
+ 
