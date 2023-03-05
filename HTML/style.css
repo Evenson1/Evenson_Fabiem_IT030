@@ -3,3 +3,11 @@ h1 {
 	border: thin;
 	background-color: lightgrey;
 }
+
+p{
+	font-display: bold;
+	background-color: lightgrey;
+	border: thin;
+	border-color: darkcyan;
+
+}

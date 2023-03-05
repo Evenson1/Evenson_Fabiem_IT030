@@ -6,16 +6,22 @@
     <meta name="keywords" content="HTML,CSS,">
     <meta name="author" content="Evenson Fabien"> 
     <meta name="title" content="HTML — Markup, Create and design">
+     <link rel="stylesheet" type="text/css" href="style.css">
      <title> Test Project</title>
- </head>  
+  </head>  
    <body>
       <h1>Evenson Fabuien Testing </h1>
-      <p>Hello my name is Evenson Fabien. I am practicing on leanring HTML and CSS. This is a test bed for some  practice.</p>
+       <p>Hello my name is Evenson Fabien. I am practicing on leanring HTML and CSS. This is a test bed for some  practice.</p>
+       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-
-   </body>
-   </html>
-
+  
+  </body>
+ </html>
 
 
  
