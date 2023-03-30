@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Java Snippet</title>
+</head>
+<body>
+	<div id="myCoolDiv">I am some place holder</div>
+	<script type="text/Javascript">
+		document.getElementbyId("myCooliv").innerHTML ="The Times is" + new Date().getDate();
+	</script>
+
+ 
+
+</body>
+</html>
