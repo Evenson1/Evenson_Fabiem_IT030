@@ -1,5 +1,5 @@
 // Get the current hour
-<header>
+
 let time = new Date().getHours();
 
 // Greet the user based on the time of the day
